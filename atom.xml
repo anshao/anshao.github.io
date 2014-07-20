@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Just Do IT]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://anshao.net/"/>
-  <updated>2014-07-20T06:40:22.481Z</updated>
+  <updated>2014-07-20T06:45:05.390Z</updated>
   <id>http://anshao.net/</id>
   
   <author>
@@ -13,54 +13,6 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[中文名标题]]></title>
-    <link href="http://anshao.net/learnmore/test-chinese-language.html"/>
-    <id>http://anshao.net/learnmore/test-chinese-language.html</id>
-    <published>2014-07-20T21:28:53.000Z</published>
-    <updated>2014-07-20T06:12:00.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="中文名标题">中文名标题</h1>
-<h3 id="中文名标题-1">中文名标题</h3>
-]]></content>
-    
-    
-      <category term="aaaa" scheme="http://anshao.net/tags/aaaa/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[test-category.md]]></title>
-    <link href="http://anshao.net/test11/test-categorymd.html"/>
-    <id>http://anshao.net/test11/test-categorymd.html</id>
-    <published>2014-07-20T21:28:53.000Z</published>
-    <updated>2014-07-20T05:43:00.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="aaaaa">aaaaa</h1>
-<p><em>bbbb</em></p>
-]]></content>
-    
-    
-      <category term="aaaa" scheme="http://anshao.net/tags/aaaa/"/>
-    
-      <category term="test11" scheme="http://anshao.net/categories/test11/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[test]]></title>
-    <link href="http://anshao.net/learnmore/test.html"/>
-    <id>http://anshao.net/learnmore/test.html</id>
-    <published>2014-07-20T20:06:41.000Z</published>
-    <updated>2014-07-20T04:08:13.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="test">test</h1>
-<h2 id="test-1">test</h2>
-<p><strong>test</strong></p>
-]]></content>
-    
-    
-      <category term="test" scheme="http://anshao.net/tags/test/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>

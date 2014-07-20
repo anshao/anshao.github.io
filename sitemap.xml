@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://anshao.net/learnmore/test-chinese-language.html</loc>
-    <lastmod>2014-07-20T06:12:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anshao.net/test11/test-categorymd.html</loc>
-    <lastmod>2014-07-20T05:43:00.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://anshao.net/categories/index.html</loc>
     <lastmod>2014-07-20T05:36:00.000Z</lastmod>
   </url>
@@ -19,11 +9,6 @@
   <url>
     <loc>http://anshao.net/tags/index.html</loc>
     <lastmod>2014-07-20T05:35:35.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anshao.net/learnmore/test.html</loc>
-    <lastmod>2014-07-20T04:08:13.000Z</lastmod>
   </url>
   
   <url>
