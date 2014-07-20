@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Just Do IT]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://anshao.net/"/>
-  <updated>2014-07-20T10:49:34.878Z</updated>
+  <updated>2014-07-20T11:22:52.237Z</updated>
   <id>http://anshao.net/</id>
   
   <author>
@@ -13,6 +13,22 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[a-b-c-d-e-f]]></title>
+    <link href="http://anshao.net/learnmore/a-b-c-d-e-f.html"/>
+    <id>http://anshao.net/learnmore/a-b-c-d-e-f.html</id>
+    <published>2014-07-21T03:21:48.000Z</published>
+    <updated>2014-07-20T11:22:42.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="test">test</h1>
+<h2 id="test-1">test</h2>
+<hr>
+<h1 id="ceshi">ceshi</h1>
+<h2 id="ceshi-1">ceshi</h2>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> <span class="variable">$a</span> = <span class="string">'b'</span>;</div></pre></td></tr></table></figure>]]></content>
+    
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
