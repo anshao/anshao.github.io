@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://anshao.net/learnmore/hello-world.html</loc>
+    <lastmod>2014-07-20T06:49:06.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anshao.net/categories/index.html</loc>
     <lastmod>2014-07-20T05:36:00.000Z</lastmod>
   </url>
@@ -9,11 +14,6 @@
   <url>
     <loc>http://anshao.net/tags/index.html</loc>
     <lastmod>2014-07-20T05:35:35.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anshao.net/learnmore/hello-world.html</loc>
-    <lastmod>2014-07-19T16:25:18.000Z</lastmod>
   </url>
   
 </urlset>
