@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://anshao.me/posts/hello-world/</loc>
+    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anshao.me/posts/my-first-post/</loc>
+    <lastmod>2018-11-19T15:15:35+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://anshao.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://anshao.me/</loc>
+    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anshao.me/posts/</loc>
+    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
