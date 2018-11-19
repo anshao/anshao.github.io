@@ -1,4 +1,4 @@
-baseURL = "https://anshao.net/"
+baseURL = "https://anshao.me/"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
