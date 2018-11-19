@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://anshao.net/learnmore/a-b-c-d-e-f.html</loc>
-    <lastmod>2014-07-20T11:22:42.000Z</lastmod>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://anshao.net/learnmore/hello-world.html</loc>
-    <lastmod>2014-07-20T07:15:22.000Z</lastmod>
+    <loc>http://example.org/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://anshao.net/categories/index.html</loc>
-    <lastmod>2014-07-20T05:36:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anshao.net/tags/index.html</loc>
-    <lastmod>2014-07-20T05:35:35.000Z</lastmod>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
