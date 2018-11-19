@@ -1,6 +1,6 @@
-baseURL = "https://anshao/"
+baseURL = "http://localhost:1313/"
 languageCode = "en"
-defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
@@ -20,7 +20,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "anshao"
+  name = "olOwOlo"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -52,10 +52,10 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2018"            # Site creation time          # 站点建立时间
+  since = "2017"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Anshao"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "Even"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","even"]
   description = "Hugo theme even example site."
 
@@ -155,22 +155,22 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
-  #[params.social]                                         # 社交链接
-    #a-email = "mailto:your@email.com"
-    #b-stack-overflow = "http://localhost:1313"
-    #c-twitter = "http://localhost:1313"
-    #d-facebook = "http://localhost:1313"
-    #e-linkedin = "http://localhost:1313"
-    #f-google = "http://localhost:1313"
-    #g-github = "http://localhost:1313"
-    #h-weibo = "http://localhost:1313"
-    #i-zhihu = "http://localhost:1313"
-    #j-douban = "http://localhost:1313"
-    #k-pocket = "http://localhost:1313"
-    #l-tumblr = "http://localhost:1313"
-    #m-instagram = "http://localhost:1313"
-    #n-gitlab = "http://localhost:1313"
-    #o-bilibili = "http://localhost:1313"
+  [params.social]                                         # 社交链接
+    a-email = "mailto:your@email.com"
+    b-stack-overflow = "http://localhost:1313"
+    c-twitter = "http://localhost:1313"
+    d-facebook = "http://localhost:1313"
+    e-linkedin = "http://localhost:1313"
+    f-google = "http://localhost:1313"
+    g-github = "http://localhost:1313"
+    h-weibo = "http://localhost:1313"
+    i-zhihu = "http://localhost:1313"
+    j-douban = "http://localhost:1313"
+    k-pocket = "http://localhost:1313"
+    l-tumblr = "http://localhost:1313"
+    m-instagram = "http://localhost:1313"
+    n-gitlab = "http://localhost:1313"
+    o-bilibili = "http://localhost:1313"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
