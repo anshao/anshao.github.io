@@ -1,36 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://anshao/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anshao.me/posts/hello-world/</loc>
-    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
+    <loc>https://anshao/post/2018-11-19-even-themes-contents/</loc>
+    <lastmod>2018-11-19T17:47:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anshao.me/posts/my-first-post/</loc>
+    <loc>https://anshao/posts/hello-world/</loc>
+    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anshao/posts/my-first-post/</loc>
     <lastmod>2018-11-19T15:15:35+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anshao.me/categories/</loc>
+    <loc>https://anshao/categories/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anshao.me/</loc>
+    <loc>https://anshao/</loc>
+    <lastmod>2018-11-19T17:47:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anshao/post/</loc>
+    <lastmod>2018-11-19T17:47:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anshao/posts/</loc>
     <lastmod>2018-11-19T16:39:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anshao.me/posts/</loc>
-    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://anshao.me/tags/</loc>
+    <loc>https://anshao/tags/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
