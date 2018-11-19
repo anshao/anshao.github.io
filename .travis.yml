@@ -1,7 +1,7 @@
-language: python 
+#language: python 
 
-python:
-  - "3.6"  # 指定Python版本
+#python:
+#  - "3.6"  # 指定Python版本
 
 # Specify which branches to build using a safelist
 # 分支白名单限制: 只有hugo分支的提交才会触发构建
@@ -12,14 +12,15 @@ branches:
 install:
 # 安装最新的hugo
 #  - go get github.com/spf13/hugo 
-  - wget -qO- https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p}}' | xargs wget
-  - sudo dpkg -i hugo*.deb
-  - pip install Pygments
+#  - wget -qO- https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p}}' | xargs wget
+#  - sudo dpkg -i hugo*.deb
+#  - pip install Pygments
+#  - rm -rf public 2> /dev/null
   - rm -rf public 2> /dev/null
 
 script:
 # 运行hugo命令
-  - hugo
+  - binary/hugo
 
 deploy:
   provider: pages # 重要，指定这是一份github pages的部署配置
