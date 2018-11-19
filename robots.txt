@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://anshao.net/sitemap.xml
+Sitemap: https://anshao.me/sitemap.xml
