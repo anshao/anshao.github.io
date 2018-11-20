@@ -3,38 +3,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anshao.me/post/2018-11-19-secondly-post-02/</loc>
-    <lastmod>2018-11-19T21:46:55+08:00</lastmod>
+    <loc>https://anshao.me/post/2018-11-20-learn-english-day-1/</loc>
+    <lastmod>2018-11-20T22:29:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anshao.me/post/2018-11-19-secondly-post/</loc>
-    <lastmod>2018-11-19T21:29:15+08:00</lastmod>
+    <loc>https://anshao.me/post/2018-11-20-learn-english-overview/</loc>
+    <lastmod>2018-11-20T22:29:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anshao.me/post/2018-11-19-even-themes-contents/</loc>
-    <lastmod>2018-11-19T17:47:45+08:00</lastmod>
+    <loc>https://anshao.me/</loc>
+    <lastmod>2018-11-20T22:29:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://anshao.me/posts/hello-world/</loc>
-    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://anshao.me/posts/my-first-post/</loc>
-    <lastmod>2018-11-19T15:15:35+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -44,28 +30,28 @@
   </url>
   
   <url>
-    <loc>https://anshao.me/</loc>
-    <lastmod>2018-11-19T21:46:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://anshao.me/post/</loc>
-    <lastmod>2018-11-19T21:46:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://anshao.me/posts/</loc>
-    <lastmod>2018-11-19T16:39:11+08:00</lastmod>
+    <lastmod>2018-11-20T22:29:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://anshao.me/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anshao.me/tags/%E5%AD%A6%E8%8B%B1%E8%AF%AD/</loc>
+    <lastmod>2018-11-20T22:29:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anshao.me/tags/%E8%83%8C%E5%8D%95%E8%AF%8D/</loc>
+    <lastmod>2018-11-20T22:29:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

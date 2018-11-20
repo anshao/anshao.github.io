@@ -1,59 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
+    <title>Anshao的自留地</title>
     <link>https://anshao.me/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <description>Recent content on Anshao的自留地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Nov 2018 21:46:55 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 22:29:23 +0800</lastBuildDate>
     
 	<atom:link href="https://anshao.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2018 11 19 Secondly Post 02</title>
-      <link>https://anshao.me/post/2018-11-19-secondly-post-02/</link>
-      <pubDate>Mon, 19 Nov 2018 21:46:55 +0800</pubDate>
+      <title>背单词(Day 1)</title>
+      <link>https://anshao.me/post/2018-11-20-learn-english-day-1/</link>
+      <pubDate>Tue, 20 Nov 2018 22:29:23 +0800</pubDate>
       
-      <guid>https://anshao.me/post/2018-11-19-secondly-post-02/</guid>
-      <description>AAA:aaa BBB:bbb CCC:ccc</description>
+      <guid>https://anshao.me/post/2018-11-20-learn-english-day-1/</guid>
+      <description> 背单词第1天，单词总数104，新词总数104，看读写3遍，听写1遍
+  读写  听写   </description>
     </item>
     
     <item>
-      <title>2018 11 19 Secondly Post</title>
-      <link>https://anshao.me/post/2018-11-19-secondly-post/</link>
-      <pubDate>Mon, 19 Nov 2018 21:29:15 +0800</pubDate>
+      <title>重学英语,从背单词开始</title>
+      <link>https://anshao.me/post/2018-11-20-learn-english-overview/</link>
+      <pubDate>Tue, 20 Nov 2018 22:29:14 +0800</pubDate>
       
-      <guid>https://anshao.me/post/2018-11-19-secondly-post/</guid>
-      <description>AAA:aaa BBB:bbb CCC:ccc</description>
-    </item>
-    
-    <item>
-      <title>Even Themes Contents</title>
-      <link>https://anshao.me/post/2018-11-19-even-themes-contents/</link>
-      <pubDate>Mon, 19 Nov 2018 17:47:45 +0800</pubDate>
-      
-      <guid>https://anshao.me/post/2018-11-19-even-themes-contents/</guid>
-      <description> hhhh  a b c  </description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://anshao.me/posts/hello-world/</link>
-      <pubDate>Mon, 19 Nov 2018 16:39:11 +0800</pubDate>
-      
-      <guid>https://anshao.me/posts/hello-world/</guid>
-      <description>Hello World!!</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://anshao.me/posts/my-first-post/</link>
-      <pubDate>Mon, 19 Nov 2018 15:15:35 +0800</pubDate>
-      
-      <guid>https://anshao.me/posts/my-first-post/</guid>
-      <description>My First Contents!</description>
+      <guid>https://anshao.me/post/2018-11-20-learn-english-overview/</guid>
+      <description>  作为没过CET4英语渣渣，受到一些事情的刺激，决心从背单词开始学习一下英语，目标是增加词汇量，终极目标是能无障碍阅读英文类技术文档😀！
+ 高一词汇  背单词(Day 1)  </description>
     </item>
     
   </channel>
