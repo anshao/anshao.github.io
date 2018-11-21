@@ -10,5 +10,6 @@ draft: false
 
 ### 高一词汇
 1. [背单词(Day 1)](/post/2018-11-20-learn-english-day-1/)
+2. [背单词(Day 2)](/post/2018-11-21-learn-english-day-2/)
 
 
