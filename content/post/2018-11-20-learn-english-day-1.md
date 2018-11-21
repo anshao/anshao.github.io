@@ -10,6 +10,6 @@ draft: false
 > 背单词第`1`天，单词总数`104`，新词总数`104`，看读写`3`遍，听写`1`遍
 
 - 读写
-![看着读写](/learn-english-day-1-01.jpg "看着读写")
+![看着读写](/img/learn-english-day-1-01.jpg "看着读写")
 - 听写
-![听写](/learn-english-day-1-02.jpg "听写")
+![听写](/img/learn-english-day-1-02.jpg "听写")
