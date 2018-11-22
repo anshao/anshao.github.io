@@ -4,6 +4,7 @@ date: 2018-11-20T22:29:23+08:00
 description: "Anshao - 重学英语,从背单词开始 - 背单词(Day 1)"
 keywords: "Anshao - 重学英语,从背单词开始 - 背单词(Day 1)"
 tags: ["学英语", "背单词"]
+categories: ["背单词"]
 draft: false
 ---
 
