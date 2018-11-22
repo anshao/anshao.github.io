@@ -1,6 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+description: "Anshao - "
+keywords: "Anshao - "
+tags: []
+draft: false
 ---
 
