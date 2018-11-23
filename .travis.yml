@@ -21,14 +21,40 @@ install:
 script:
 # 运行hugo命令
   - binary/hugo
+  - echo 'Hugo build done!'
 
-deploy:
-  provider: pages # 重要，指定这是一份github pages的部署配置
-  skip-cleanup: true # 重要，不能省略
-  local-dir: public # 静态站点文件所在目录
-  target-branch: master # 要将静态站点文件发布到哪个分支
-  github-token: $GITHUB_TOKEN # 重要，$GITHUB_TOKEN是变量，需要在GitHub上申请、再到配置到Travis
-  fqdn: anshao.me # 如果是自定义域名，此处要填
-  keep-history: true # 是否保持target-branch分支的提交记录
-  on:
-    branch: gh-pages # 博客源码的分支
+after_script:
+  - git clone "https://anshao:${GITHUB_TOKEN}@${Github_REF}" github-pages
+  - cp ./public/* github-pages -rf
+  - cd github-pages
+  - git add .
+  - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  - git tag v0.0.$TRAVIS_BUILD_NUMBER -a -m "Auto Taged By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  # Github Pages
+  - git push --force --quiet "https://anshao:${GITHUB_TOKEN}@${Github_REF}" master:master 
+  - git push --quiet "https://anshao:${GITHUB_TOKEN}@${Github_REF}" master:master --tags
+  # Coding Pages
+  - git push --force --quiet "https://sevenphp:${CODING_TOKEN}@${CodingNet_REF}" master:master
+  - git push --quiet "https://sevenphp:${CODING_TOKEN}@${CodingNet_REF}" master:master --tags
+
+env:
+  global:
+    # Github Pages
+    #https://github.com/tainzhi/tainzhi.github.io.git
+    #git@github.com:tainzhi/tainzhi.github.io.git
+    - Github_REF: github.com/anshao/anshao.github.io.git
+    # Coding Pages
+    #https://git.coding.net/qfq/qfq.coding.me.git
+    #git@git.coding.net:qfq/qfq.coding.me.git
+    - CodingNet_REF: git.coding.net/sevenphp/sevenphp.coding.me.git
+
+# deploy:
+#   provider: pages # 重要，指定这是一份github pages的部署配置
+#   skip-cleanup: true # 重要，不能省略
+#   local-dir: public # 静态站点文件所在目录
+#   target-branch: master # 要将静态站点文件发布到哪个分支
+#   github-token: $GITHUB_TOKEN # 重要，$GITHUB_TOKEN是变量，需要在GitHub上申请、再到配置到Travis
+#   fqdn: anshao.me # 如果是自定义域名，此处要填
+#   keep-history: true # 是否保持target-branch分支的提交记录
+#   on:
+#     branch: gh-pages # 博客源码的分支
