@@ -27,7 +27,8 @@ after_script:
   - git clone -b master "https://anshao:${GITHUB_TOKEN}@${Github_REF}" github-pages
   - cp ./public/* github-pages -rf
   - cd github-pages
-  - git config user.name traviscibot
+  - git config user.name 'Deployment Bot (from Travis CI)'
+  - git config user.email deploy@travis-ci.org
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   - git tag v0.0.$TRAVIS_BUILD_NUMBER -a -m "Auto Taged By TravisCI With Build $TRAVIS_BUILD_NUMBER"
